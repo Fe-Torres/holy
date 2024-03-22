@@ -1,40 +1,40 @@
+const fs = require('fs');
+const path = require('path');
+
 // Função para formatar um único arquivo
 function formatarArquivo(inputFile) {
     try {
-        const data = require(`./${inputFile}`);
-        const livroCapitulo = data.content[0][0].match(/(\d+)/g); // Extrair número do capítulo
-        const livro = data.content[0][0].replace(/\d+$/, '');
-        const capitulos = data.content.slice(1);
-        const sigla = livro.substring(0, 2).toLowerCase();
-        const capituloInicial = parseInt(livroCapitulo[0]); // Converter para número inteiro
+        const data = require(`./books-json/${inputFile}`);
+        const livroParte = data.fileName.match(/(\d+)-(\d+)/); // Extrair número da parte do livro
+        const sigla = inputFile.substring(0, 2).toLowerCase(); // Extrair sigla do nome do arquivo
+        const capitulos = data.content.slice(2);
 
         const versiculosFormatados = [];
-        let capituloAtual = capituloInicial; // Definir o capítulo inicial
-        let ultimoVersiculo = 0;
+        let parteAtual = livroParte ? parseInt(livroParte[2]) : 1;
+        let capituloAtual = 0; // Inicializar o capítulo atual
+        let nomeLivro = ''; // Inicializar o nome do livro
 
         for (const item of capitulos) {
-            if (item.length === 1 && item[0].match(/^[A-Za-z]+\s+\d+$/)) {
-                const capituloMatch = item[0].match(/\d+/); // Extrair número do capítulo
-                capituloAtual = parseInt(capituloMatch[0]); // Convertendo para número inteiro
-                ultimoVersiculo = 0; // Reiniciar a contagem dos versículos
-            } else {
-                for (const linha of item) {
-                    const versiculoMatch = linha.match(/^\d+\s+/);
-                    if (versiculoMatch) {
-                        const numeroVersiculo = parseInt(versiculoMatch[0]);
-                        if (numeroVersiculo <= ultimoVersiculo) {
-                            capituloAtual++; // Incrementar o número do capítulo
-                        }
-                        ultimoVersiculo = numeroVersiculo; // Atualizar o último versículo processado
-                        const texto = linha.replace(/^\d+\s*/, '');
-                        versiculosFormatados.push({
-                            capítulo: capituloAtual,
-                            versículo: numeroVersiculo,
-                            texto: texto,
-                            livro: livro,
-                            sigla: sigla
-                        });
+            for (const linha of item) {
+                const capituloMatch = linha.match(/^\d+\s+/);
+                if (capituloMatch) {
+                    capituloAtual = parseInt(capituloMatch[0]); // Atualizar o capítulo atual
+                    // Extrair o nome do livro a partir do texto do capítulo
+                    const livroMatch = linha.match(/(\w+)\s+\d+/);
+                    if (livroMatch) {
+                        nomeLivro = livroMatch[1];
                     }
+                }
+                const versiculoMatch = linha.match(/^\d+\s+(.*)/);
+                if (versiculoMatch) {
+                    const texto = versiculoMatch[1];
+                    versiculosFormatados.push({
+                        parte: parteAtual,
+                        capítulo: capituloAtual,
+                        texto: texto.trim(),
+                        livro: nomeLivro, // Corrigir o campo livro
+                        sigla: sigla // Corrigir a sigla
+                    });
                 }
             }
         }
@@ -46,37 +46,43 @@ function formatarArquivo(inputFile) {
     }
 }
 
+// Função para criar uma pasta se ela não existir
+function criarPastaSeNaoExistir(pasta) {
+    if (!fs.existsSync(pasta)) {
+        fs.mkdirSync(pasta);
+    }
+}
 
-// Função para formatar todos os arquivos
+// Função para formatar todos os arquivos e escrever arquivos formatados
 function formatarTodosArquivos() {
     try {
-        const arquivos = fs.readdirSync('./');
+        const arquivos = fs.readdirSync('./books-json');
         const arquivosJson = arquivos.filter(arquivo => arquivo.endsWith('.json'));
+        const pastaSaida = './books-json-formatted/';
 
-        let versiculosFormatados = [];
+        criarPastaSeNaoExistir(pastaSaida);
 
         for (const arquivo of arquivosJson) {
-            versiculosFormatados = versiculosFormatados.concat(formatarArquivo(arquivo));
+            const versiculosFormatados = formatarArquivo(arquivo);
+            escreverArquivoFormatado(versiculosFormatados, pastaSaida, arquivo);
         }
 
-        return versiculosFormatados;
     } catch (error) {
         console.error(`Erro ao ler o diretório: ${error}`);
-        return [];
     }
 }
 
 // Escrever os versículos formatados em um novo arquivo JSON
-function escreverArquivoFormatado(versiculos) {
-    const arquivoSaida = 'versiculos_formatados.json';
+function escreverArquivoFormatado(versiculos, pastaSaida, inputFile) {
+    const nomeArquivoSaida = inputFile.replace('.json', '_formatado.json');
+    const caminhoCompleto = path.join(pastaSaida, nomeArquivoSaida);
     try {
-        fs.writeFileSync(arquivoSaida, JSON.stringify(versiculos, null, 2));
-        console.log(`Os versículos foram formatados e escritos em ${arquivoSaida}`);
+        fs.writeFileSync(caminhoCompleto, JSON.stringify(versiculos, null, 2));
+        console.log(`Os versículos foram formatados e escritos em ${caminhoCompleto}`);
     } catch (error) {
         console.error(`Erro ao escrever o arquivo formatado: ${error}`);
     }
 }
 
-// Executar o script
-const versiculosFormatados = formatarTodosArquivos();
-escreverArquivoFormatado(versiculosFormatados);
+// Executar a formatação de todos os arquivos
+formatarTodosArquivos();
