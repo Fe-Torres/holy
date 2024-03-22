@@ -45,3 +45,38 @@ function formatarArquivo(inputFile) {
         return [];
     }
 }
+
+
+// Função para formatar todos os arquivos
+function formatarTodosArquivos() {
+    try {
+        const arquivos = fs.readdirSync('./');
+        const arquivosJson = arquivos.filter(arquivo => arquivo.endsWith('.json'));
+
+        let versiculosFormatados = [];
+
+        for (const arquivo of arquivosJson) {
+            versiculosFormatados = versiculosFormatados.concat(formatarArquivo(arquivo));
+        }
+
+        return versiculosFormatados;
+    } catch (error) {
+        console.error(`Erro ao ler o diretório: ${error}`);
+        return [];
+    }
+}
+
+// Escrever os versículos formatados em um novo arquivo JSON
+function escreverArquivoFormatado(versiculos) {
+    const arquivoSaida = 'versiculos_formatados.json';
+    try {
+        fs.writeFileSync(arquivoSaida, JSON.stringify(versiculos, null, 2));
+        console.log(`Os versículos foram formatados e escritos em ${arquivoSaida}`);
+    } catch (error) {
+        console.error(`Erro ao escrever o arquivo formatado: ${error}`);
+    }
+}
+
+// Executar o script
+const versiculosFormatados = formatarTodosArquivos();
+escreverArquivoFormatado(versiculosFormatados);
