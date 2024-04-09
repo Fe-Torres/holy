@@ -1,1682 +1,4475 @@
 [
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Vaidade de vaidades, diz o Pregador, vaidade de vaidades, tudo é vãob.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 0,
+    "versículo": 1,
+    "parte": null,
+    "texto": "QOHÉLET",
+    "livro": "QOHÉLET",
+    "sigla": "QOH",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Que proveito tem o homem de todo o duro labor com que se ocupa debaixo do solc?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 0,
+    "versículo": 1,
+    "parte": null,
+    "texto": "ECLESIASTES",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Uma geração vai, uma geração vem, mas a terra sempre permanece.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 0,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Futilidade",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "O sol sai e o sol se põe, e volta ao lugar de onde saiu, para voltar a sair dali.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "As palavras de Qohélet ben Davi, rei de Jerusalém.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Sopra para o sul e gira para o norte; constantemente girando o vento, e ele regressa a seus giros.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Vaidade de vaidades, diz Qohélet.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Para o mar fluem todos os rios, mas o mar nunca se enche. Pelo curso onde os rios fluíram, por ali voltarão a fluir.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Vaidade de vaidades, tudo é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Todas as coisas são cansativas; o homem não se saciará de falar nem os olhos se saciam de ver, nem o ouvido se sacia de ouvir.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Que proveito tem o homem de todo seu labor com o qual se afana debaixo do sol?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "O que foi, isso será, e o que se fez, isso se farád; nada há novo debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Geração vai e geração vem,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Qualquer que fale dizendo: “Vê, isto é novo”, já existia desde antigamente, desde o princípio.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mas a terra continua sempre igual.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Das primeiras coisas não há memória nem tampouco das que sucederão ao final; para elas não há memória entre aqueles que virão depois.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Sai o sol, e se vai o sol,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Ofegando até seu lugar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E dali volta a sair.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O vento sopra do tramontana,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E gira do sul,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E girando sem cessar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O vento volta a seu curso.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Todos os rios vão para o mar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o mar nunca se enche.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Ao lugar de onde vieram os rios,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Ali voltam, para correr de novo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Todas as coisas são fatigantes,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mais do que o homem pode expressar.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O olho nunca se sacia de ver,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Nem o ouvido se farta de ouvir.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O que é que tem sido?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O mesmo que será.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o que é o feito?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O mesmo que será feito.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não há nada novo debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Há coisa que se possa dizer:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Eis que isto é novo?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Já existia nos universos que foram antes de nós.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não há memória das primeiras coisas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E certamente tampouco haverá memória das ultimas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Entre as que virão depois.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Conclusões",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 1,
     "versículo": 12,
-    "texto": "Eu, o Pregador, fui rei de Yisrail, em Orishlem.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Quando eu, Qohélet, vim para ser rei sobre Israel em Jerusalém,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 13,
-    "texto": "Dediquei meu coração a buscar e a investigar com sabedoria acerca de tudo o que tem sido feito debaixo do sol. Penosa tarefa é a que Marya atribuiu aos homens para que se ocupem nela.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "então apliquei meu coração a inquirir e investigar, com sabedoria, tudo o que se faz debaixo dos céus, tarefa penosa que Elohim tem imposto aos filhos do homem para que sejam afligidos com ela.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 14,
-    "texto": "Toda a obra que se faz debaixo do sol observei, e eis que tudo é vão e ansiedade de espíritoe.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tenho visto todas as obras que se fazem debaixo do sol, e eis que tudo é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 15,
-    "texto": "Não se pode ordenar o desordenado, e não se pode contar o que falta.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "O torto não pode endireitar-se e o incompleto não pode completar-se.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 16,
-    "texto": "Eu conversei com meu coração, e disse: Eis que me engrandeci e multipliquei a sabedoria mais do que todo aquele que me precedeu sobre Orishlemf; muita sabedoria e conhecimento percebeu o meu coração.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Falei com meu coração dizendo-lhe: Veja, me engrandeci e tenho crescido em sabedoria sobre todos os que foram antes de mim em Jerusalém, e meu coração experimentou sabedoria e conhecimento em abundância.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 17,
-    "texto": "Dediquei meu coração a conhecer a sabedoria, provérbios e entendimento; então compreendi que isto também é ansiedade de espírito,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tenho dedicado meu coração a conhecer a sabedoria, e a entender a loucura e a insensatez, e compreendi que ainda isto é correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 18,
-    "texto": "pois na muita sabedoria há muita irritação, e quem acrescenta conhecimento, acrescenta dorg.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Porque na muita sabedoria há muita frustração, e o que cresce em conhecimento, cresce em sua aflição.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Ao risoi disse: Que prazer há em ti? E à diversão: Que conseguiste?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Propus em meu coração entreter minha carne com vinhoj, mas meu coração ponderou sabiamente e se apegou ao entendimento, para ver o que é bom que os homens façam debaixo do sol, durante os contados dias de sua vida.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Adquiri mais servos, construí casas para mim, plantei para mim vinhedosk,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "fiz jardins e hortas para mim, e plantei neles todo tipo de árvores frutíferas;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "construí para mim açudes, para regar um bosque onde crescessem árvores.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Adquiri servos e servas, e tive muitos servos nascidos em casa; tive também muito gadoa bovino e ovino, mais do que todos os que me precederam em Orishlem.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Também acumulei prata e ourob e as posses de reis e cidades; provi-me de cantores e cantorasc e dos prazeres dos homens; tive copeiros e copeirasd.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Engrandeci-me e acumulei muito mais do que todos os que me precederam em Orishlem; também a sabedoria permaneceu comigo.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Coisa alguma do que pediram meus olhos lhes neguei, nem privei a meu coração de diversão alguma, porque meu coração se regozijava em todo o meu trabalho. Esta foi minha porção de todo meu duro labor.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Depois contemplei toda a obra que minhas mãos realizaram e todo o duro labor que realizei para cumpri-lo, e eis que tudo era vão e ansiedade de espírito, pois não há proveito algum debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "Depois observei atentamente para considerar a sabedoria, a transgressão e a insensatez, por que o que é o homem para que entre em pleito contra o rei? Muito menos com o que o fez.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "Então notei que a sabedoriae tem maior proveito do que a insensatez, como tem maior proveito a luz do que a escuridão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "O sábio tem seus olhos em sua cabeça, mas o insensato anda em trevas; e compreendi que o que sucede a um, sucede a todos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Então refleti1: Se como sucede ao insensato a mim sucederá também, por que, pois, tornei-me mais sábio? Então raciocinei2: Também isso é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Porque o insensato fala de maneira supérflua, de modo que não haverá memória permanente para o sábio, assim como tampouco para o insensato. Como os dias que se passam, logo tudo se esquece. Como, pois, morrerá o sábio junto com o insensato?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "Assim pois, aborreci a vida, porque me era cansativa a obra que se faz debaixo do sol, pois tudo é vão e ansiedade de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 18,
-    "texto": "Do mesmo modo aborreci todo o meu duro labor com que me havia envolvido debaixo do sol, porque a deixarei ao homem que virá depois de mim,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 1,
     "versículo": 19,
-    "texto": "e quem sabe se ele será sábio ou insensato? Contudo, ele terá domínio sobre todo o meu duro trabalho com o qual tenho me envolvido conduzindo-me sabiamente debaixo do sol. Também isto é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Vaidade dos prazeres",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Disse em meu coração:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Vem, pois, te provarei com o prazer!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Prova a felicidade!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mas eis que isto também era vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Do riso tenho dito: É necedade!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E do prazer: O que consegue?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 3,
+    "parte": null,
+    "texto": "Ainda quando meu coração me guiava com sabedoria, decidi agasalhar minha carne com vinho e entregar-me à insensatez, até ver qual era o bem do homem em que se ocupa sob os céus nos poucos dias de sua vida.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 4,
+    "parte": null,
+    "texto": "Engrandeci minhas obras, edifiquei para mim palácios e plantei vinhedos para mim;",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 5,
+    "parte": null,
+    "texto": "fiz para mim hortos e jardins, e plantei todo tipo de árvores frutíferas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 6,
+    "parte": null,
+    "texto": "fiz-me tanques de água, para regar com eles o souto onde se cultivavam minhas árvores;",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 7,
+    "parte": null,
+    "texto": "comprei escravos e escravas, e tive outros nascidos em casa; também tive uma grande fazenda de vacadas e rebanhos, mais do que todos meus antecessores em Jerusalém.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 8,
+    "parte": null,
+    "texto": "Acumulei para mim prata e ouro, tesouro digno de reinos e províncias; contratei cantores e cantoras, e tive um harém de concubinas para desfrutar, como costumam os homens.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Fui o maior e mais magnífico de quantos me antecederam em Jerusalém, enquanto minha sabedoria permanecia comigo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 10,
+    "parte": null,
+    "texto": "Nada quanto meus olhos desejavam lhes neguei, nem privei meu coração de prazer algum, pois meu coração gozava de todo meu labor, e esta era a porção de todo meu trabalho.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 11,
+    "parte": null,
+    "texto": "Logo, considerei todas as obras que haviam feito minhas mãos, e o duro trabalho com que me havia azafamado em fazê-las, e eis que tudo era vaidade é como correr atrás do vento! Não havia proveito algum debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Depois voltei a considerar a sabedoria, a loucura e a tolice (o que poderia acrescentar o homem que sucederá ao rei, ao que já se fez?),",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 13,
+    "parte": null,
+    "texto": "e vi que a sabedoria excede a tolice, como a luz às trevas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 14,
+    "parte": null,
+    "texto": "Os olhos do sábio estão em sua cabeça, mas o néscio anda em trevas. Ainda também compreendi que uma mesma coisa acontece a ambos.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 15,
+    "parte": null,
+    "texto": "Então disse a mim mesmo em meu coração: Como a sorte do néscio, assim acontecerá a mim. Para que, então, tenho sido mais sábio? E me disse em meu coração que também isto é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 16,
+    "parte": null,
+    "texto": "Porque nem do sábio nem do néscio haverá memória para sempre, pois nos dias vindouros tudo haverá sido esquecido. E como morre o sábio? Como o néscio!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 17,
+    "parte": null,
+    "texto": "Detestei pois a vida, porque a obra que se faz debaixo do sol me era enfadosa, porquanto tudo é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 18,
+    "parte": null,
+    "texto": "E aborreci todo meu trabalho em que me havia azafamado debaixo do sol, vendo que tinha que deixá-lo para alguém que virá depois de mim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
+    "versículo": 19,
+    "parte": null,
+    "texto": "E quem sabe se será sábio ou néscio? Contudo, ele senhoreará todo o fruto do esforço que realizei e em que me mostrei sábio debaixo do sol, e também isto é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 2,
     "versículo": 20,
-    "texto": "Portanto, eu voltei a abater meu coração por causa de todo o duro trabalho com o qual me envolvera debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "E por causa de todo meu trabalho com o que me havia azafamado debaixo do sol, entreguei meu coração ao desespero:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 21,
-    "texto": "Porque sucede que há homem que se envolve com a sabedoria, com talento e com diligência; mas ao homem que não se envolve nisso, sua porção lhe cabe. Também isto é vão e um grande mal.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Que um homem trabalhe com sabedoria, conhecimento e maestria, e tenha que deixar sua porção a outro que nunca se afanou nisto, isto é vaidade e grande mal!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 22,
-    "texto": "Que recebe o homem de todo o seu duro labor, e do deleite de seu coração com o qual se envolve debaixo do sol?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Então, o que ganha o homem de todos seus afãs e da ânsia de um coração com que tanto se fatiga debaixo do sol?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 23,
-    "texto": "Porque todos os seus dias são labor e pesar e indignação; nem mesmo de noite repousa seu coração. Também isto é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Porque todos os seus dias são dores; e sua tarefa, frustração, pois nem ainda de noite seu coração repousa; e isto também é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 24,
-    "texto": "Não há melhor coisa para o homem do que comer e beber, e que demostre para si o bem do seu trabalhoa. E vi que também isto procede da mão de Marya.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Não há, pois, coisa melhor para o homem do que comer e beber, e fazer com que sua alma veja o bem de seu trabalho. E tenho visto que isto provém da mão de DEUS.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 25,
-    "texto": "pois, separado deste, quem pode comer ou quem pode alegrar-se?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Porque sem Ele, quem comerá e quem se alegrará?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 26,
-    "texto": "Pois, quem comerá e quem beberá separado dEle, que concede sabedoria, conhecimento e alegria. Mas aos pecadores lhes atribuiu a tarefa de acumular e recolher para dá-lo àquele que é agradável diante de Marya. Também isto é vão e ansiedade de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Pois ao homem que é bom ante Ele, lhe dá sabedoria, conhecimento e alegria, mas ao pecador lhe impõe a tarefa de colher e amontoar para dá-lo a quem Ha-Elohim lhe agrada. Isto também é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Tempo de nascer, e tempo de morrerb; tempo de plantar, e tempo de arrancar o que se plantou;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "tempo de matar, e tempo de dar vida; tempo de destruir, e tempo de construir;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "tempo de chorar, e tempo de rirc; tempo de se lamentar, e tempo de dançard;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "tempo de espalhar pedras, e tempo de ajuntar pedras; tempo de abraçar, e tempo de se abster de abraçar;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "tempo de perder, e tempo de buscar; tempo de atar, e tempo de desatar;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "tempo de rasgar, e tempo de coser; tempo de calar, e tempo de falar;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "tempo de amar, e tempo de odiare; tempo de guerra e tempo de paz.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Que proveito há na obra na qual alguém trabalha?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Observei a tarefa que Marya designou aos homens para que se ocupem com elaf.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Ele fez tudo bem no seu tempog; também pôs a eternidade em seu coração, de modo que homem algum descubra a obra que Marya fez desde o princípio até ao fim.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "Então compreendi que para eles não há melhor coisa do que regozijar-se e fazer o que é bom durante sua vida.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "do mesmo modo, também é dom de Marya que todo homem coma e beba, e veja o bem de todo o seu duro labor.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "Compreendi que tudo quanto Marya fez será para sempre. Nada há que lhe acrescente, e nada há que lhe tire; Marya o fez para que o temam.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Aquilo que é, já tem sido, e tudo o que há de ser também, já foi há muito tempo. Alaha buscará o perseguido que tem sido desterrado.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Novamente observei debaixo do sol; no lugar da justiça ali estava a impiedade, e no lugar do direito se encontrava a injustiça.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "De modo que refleti1: Alaha julgará tanto os justos como os ímpios, porque ali há um tempo para cada assunto e para cada obra.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 18,
-    "texto": "Quanto à questão dos homens que Alaha criou para lhes mostrar que são como bestash, eu refleti2:",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 19,
-    "texto": "O mesmo que sucede aos homens sucede às bestas; uma mesma coisa sucede a todos: como morre este, assim morre aquele. Um mesmo fôlego têm todos; o homem não tem maior vantagem do que a besta, porque tudo é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 20,
-    "texto": "A um mesmo lugar tudo vai. Tudo é feito do pó e ao pó tudo voltaráa.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 21,
-    "texto": "Quem, pois, sabe se o espíritob dos homens se dirige para cima e o fôlego da besta se dirige para baixo, para a terra?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 22,
-    "texto": "Observei, pois, que não há melhor coisa para eles do que regozijar-se cada um em suas obras, porque essa é a sua porção. Pois quem o trará para que veja tudo aquilo que será depois dele?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Então elogiei os mortos, os quais já haviam morrido, mais do que os vivos, os que ainda vivemc.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Assim o que ainda não existe é melhor que ambos, porque ainda não viu a má obra que se faz debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Também observei todos os trabalhos e todas as obras excelentes que provêm da inveja do homem para com seu próximo. Isto também é vão e ansiedade de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "O insensato cruza os braços e come sua própria carne.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "É preferível um punhado cheio de quietude do que as mãos cheias de duro labor e ansiedade de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Então virei, e vi a vaidade debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Havia um só, sem sucessor1, que não tinha filho nem irmão; contudo, não tinha fim todo o seu duro labor, e nem mesmo a riqueza satisfazia seus olhos. Por que me ocupo, privando a minha alma do bem? Também isto é vão e algo mal.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Melhor é serem dois do que umd, pois têm melhor recompensa por seu labor;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "porque se um cai, seu companheiro o levanta; mas ai do que estiver só! Porque se cai, não haverá quem o levante.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Também, se dois dormirem juntos, juntos se aquentarão; mas um só, como se aquentará?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "E se alguém obtém força, dois se levantarão para enfrentá-lo. Uma corda de três fios não se rompe facilmente.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "Melhor é um jovem pobre mas sábioe do que um rei velho insensato, que já não é capaz de aceitar admoestação;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "ainda que aquele tenha saído do cárcere para reinar, embora em seu reino tenha nascido pobre.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Observei a todos os viventes que caminham debaixo do sol, junto com um jovem sucessor que ficará em seu lugar.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Não havia fim para todo o povo, para todos os que estavam diante dele, e mesmo os que lhe sucedam não estarão contentes com ele. Pois também isto é vão e ansiedade de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Não te precipites com tua boca, nem se apresse o teu coração para emitir palavra diante de Alaha, porque Alaha está no Céu, e tu na terra. Portanto, sejam poucas tuas palavras.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Porque devido a muitos trabalhos vêm os sonhos, e pelas muitas palavras a voz do insensato.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Quando fizeres a Alaha um voto, não tardes em cumpri-lo, porque Ele não se agrada dos insensatos. Mas tu, o voto que fizeste, cumpre-o.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Melhor é que não faças voto do que faças voto e não os cumpras.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Não deixes que tua boca faça pecar a tua carne, para que não digas diante de Alaha: “Foi um erro”, não seja que Alaha se irrite devido à tua voz e destrua a obra de tuas mãos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Porquanto nos muitos sonhos, nas coisas vãs e nas muitas palavras há engano, tu, porém, teme a Alaha.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Se vires a opressão dos pobres, e a violência e o juízo na cidade, não te assombres por causa dele, pois um superior vigia a outro superior, e há alguém ainda superior a eles.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Há proveito para todos num país no qual o rei cultiva o campo.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Aquele que ama o dinheiroa não se saciará de dinheiro, e aquele que ama as riquezas não as poderá reter. Isto também é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Quando os bens se multiplicam, aumentam também os que os consomem. Que proveito terão, pois, os seus donos, embora desde o princípio o haja visto com meus olhos?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "Doce é o sono para o trabalhador, coma muito ou coma pouco; mas ao rico, a abundância não o deixa dormir.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "Há um grave mal que eu vi debaixo do sol: as riquezas que são guardadas por seu dono para sua própria desgraça;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "pois aquele perde as riquezas por um mau negócio, e ao gerar um filho, nada terá em sua mão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Como saiu do ventre de sua mãe, nu, assim voltará; irá tal como veio. Nada receberá do seu duro trabalho que possa levar em sua mãob.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Isto também é um grave mal, porque tal como veio, assim irá. Portanto, que proveito teve em tudo quanto trabalhou para o vento?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "Do mesmo modo, consome todos os seus dias na escuridão, em fúria, em ira, em lamento e em aflição.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 18,
-    "texto": "Eu, o Pregador, isto é o que tenho observado: é bom e agradável comer e beber; também ver o bem de todo o duro trabalho no qual o homem se ocupa debaixo do sol os poucos dias de sua vida que Marya lhe deu, porque esta é sua porção.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 19,
-    "texto": "Do mesmo modo, a qualquer homem a quem Marya lhe tenha dado riquezas e bens e lhe permitiu que coma deles para tomar sua porção e se regozijar em seu trabalho, isto é um dom de Alaha.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 20,
-    "texto": "Pois não se recordará muito dos dias de sua vida, porque Alaha o mantém ocupado no regozijo de seu coração.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "um o homem a quem Alaha lhe dera riquezas, bens e honra, e nada lhe falta de tudo quanto deseja; contudo, Alaha não lhe concedeu comer dele, antes um estranho o comerá depois dele. Isto é vaidade e fraqueza.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Se um homem gera cem filhos homens e viver muitos anos, embora fossem numerosos os dias de seus anos, se a sua alma não se sacia de bens nem há sepultura para ele, digo que um aborto é melhor do que ele;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "porque vem em vão e em escuridão se vai, e a escuridão cobrirá seu nome.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Ainda não viu o sol e nada conheceu, este descansa mais do que aquele.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Ainda se vivesse mil anos duas vezes, mas não visse o bem, acaso não vão todos para um mesmo lugar?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Todo o duro labor do homem é para sua boca; contudo, sua alma não se sacia.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Porque o sábio tem vantagem sobre o insensato. Por quê? Porque o pobre sabe se conduzir pela vida.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Melhor é o que veem os olhos do que o proceder da alma. Também isto é vão e ansiedade da alma.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "O que existe desde o princípio já recebeu seu nome; e sabe-se o que é o homem, e que não é capaz de contender com aquele que é mais forte do que ele.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Quando há muitas coisas, aumenta o que é vão; que vantagem há para o homem?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "Porque quem conhece o que é melhor para o homem em sua vida? Os dias de sua vida vã estão contados e passam como sombra. Quem revelará ao homem que sucederá depois dele debaixo do sol?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Melhor é ir à casa onde há luto do que ir à casa onde há banquete. Porque esse é o fim de todos os homensa, e o que vive concederá o bem a seu coração.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Melhor é a ira do que o riso, pois em um semblante tristeb pode haver alegria.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "O coração dos sábios está na casa do luto, enquanto que o coração dos insensatos está na casa da diversão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Melhor é o que escuta a admoestação dos sábios do que escutar o cantar dos insensatos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Como o crepitar dos espinhos debaixo de uma panela, assim é o riso dos insensatos. Também isto é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Porque a calúnia acaba com o sábio, e o suborno perverte o coração.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Melhor é o fim de um assunto do que o seu início. É melhor a paciência do que a altivez de espírito.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "Não te apresses em teu espírito em irar-te, porque a ira se abriga no seio dos insensatos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Não digas: “Por que foram melhores os dias passados do que estes?” Porque não perguntarás com sabedoria acerca destas coisas.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Melhor é a sabedoria do que as armas, e é uma vantagem para os que veem o sol,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "pois a proteção da sabedoria é como a proteção do dinheiro; contudo, a vantagem de conhecer a sabedoria preserva a vida daquele que a possui.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "Considere a obra de Alaha, pois quem poderá ordenar o que Ele desordenouc?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "No dia da prosperidade permanece no bem, e no dia da adversidade tem cuidado de ti mesmo. Alaha faz tanto este como o outro, de maneira que nada pode achar o homem depois dele com respeito ao declarado.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Tudo isto vi durante meus dias vãos: há justo que perece em sua justiça e há ímpio que continua em sua maldade.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Não sejas demasiadamente justo nem sábio em excesso para que não te faça uma surpresaa.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "Não te comportes tão impiamente, para que não sejas muito odiado. Não te conduzas insensatamente, para que não morras antes de teu tempo.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 18,
-    "texto": "É bom que te apegues a isto, mas tampouco apartes do outro a tua mão, porque a todas estas coisas se apega aquele que teme a Alahab.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 19,
-    "texto": "Ao sábio o fortalece a sabedoria, mais do que dez príncipes que haja numa cidade.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 20,
-    "texto": "Porque não há sobre a terra um homem que seja justo, que faça o bem e não pequec.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 21,
-    "texto": "Tampouco disponhas teu coração a qualquer palavra que falem os ímpios, nem escutes a teu servo quando te insulte;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 22,
-    "texto": "porque teu coração sabe que tu tens insultado a outros muitas vezes.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 23,
-    "texto": "Com sabedoria pus a prova todas estas coisas, e disse: “Serei sábio”; contudo, isso estava longe de mim.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 24,
-    "texto": "O que foi, ficou muito longe, e na extremidade das profundezas, quem o encontrará?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 25,
-    "texto": "Eu apliquei meu coração a conhecer, investigar e buscar a sabedoria e a razão, e a reconhecer a impiedade do insensato, a insensatez e a transgressão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 26,
-    "texto": "Descobri que a mulher cujo coração é laço e rede coisa é mais amarga do que a morted, e suas mãos prendem ao que é honrado. O que for digno diante de Alaha será livre dela; mas o que pecar será preso por ela.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 2,
     "versículo": 27,
-    "texto": "Considera isto que encontrei, diz o Pregador: uma e outra coisa para achar as razões,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "O homem e suas circunstâncias",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 28,
-    "texto": "e uma vez mais minha alma buscou, mas não achei: um homem entre mil homens, mas mulher entre todas elas eu não achei.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tudo tem seu tempo, e tudo o que se quer debaixo dos céus tem sua hora:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 29,
-    "texto": "Contudo, veja, isto encontrei: que Alaha fez íntegros aos homens, mas eles buscaram muitas artimanhas.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de nascer e tempo de morrer,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "Guarda o mandato do reie, e não te apresses quanto ao juramento a Alaha.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de plantar e tempo de arrancar o plantado,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Perante sua presença vá e não te detenhas em um assunto perverso, porque ele fará tudo o que deseje.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de matar e tempo de curar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "O que o rei declare tem autoridade, e quem lhe perguntará: “Que fazes?”",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de destruir e tempo de edificar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "O que guardar o mandamento não experimentará algo mal; o coração do sábio conhece o momento e o proceder;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de chorar e tempo de rir,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "porque para cada assunto há um momento e um proceder, pois o mal do homem é muito sobre ele.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de prantear e tempo de dançar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Porque não há quem sabe o que acontecerá, pois o que há de acontecer depois dele, quem o poderá declarar?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de espalhar pedras e tempo de juntar pedras,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de abraçar e tempo de abster-se de abraçar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de buscar e tempo de perder,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de guardar e tempo de descartar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de rasgar e tempo de costurar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tempo de calar e tempo de falar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
     "versículo": 8,
-    "texto": "Não há homem que tenha domínio sobre o vento para refreá-lo; nem tem poder sobre o dia da morte; não se dá licença em tempo de guerra, nem a impiedade livrará os que a possuem.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tempo de amar e tempo de odiar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 9,
-    "texto": "Tudo isto observei, e dispus meu coração para entender toda obra que se faz debaixo do sol, e o tempo que o homem domina sobre outro homem para lhe causar mal.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tempo de guerra e tempo de paz.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "E então vi os ímpios que foram sepultados, aqueles que iam e vinham do santo lugar, que se haviam pervertido na cidade onde assim atuaram. Isto também é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Porquanto o castigo por más ações não se aplica com prontidão, por isso se enche o coração dos homens para fazer o mal.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "O pecador comete cem maldades e permanece; mas eu sei que lhes irá bema aos que temem a Marya, que temam ante sua presença.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "Mas o ímpio não irá bemb nem terá longa vida; será como sombra, visto que não teme diante de Alaha.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "Há algo vão que se faz sobre a terra, pois há justosc a quem sucede conforme as ações dos ímpios, e há ímpios a quem sucede conforme as ações dos justos; então disse: Também isto é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "Portanto, elogiei o regozijo, porque não há nada melhor para o homem debaixo do sol do que comer, beber e regozijar-se; e isso lhe acompanhará em seu duro labor todos os dias de sua vida que Alaha lhe deu debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Portanto, apliquei meu coração para conhecer a sabedoria e para ver a tarefa que se realiza sobre a terra, porque nem de dia nem de noite seus olhos desfrutam do sono1.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "Também vi toda a obra de Alaha, pois o homem não poderá entender a obra que se realiza debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "A todos sucede o mesmo2: uma coisa sucede aos justos e aos ímpios; aos bons e aos maus, aos puros e aos impuros, a quem oferece sacrifício e a quem não oferece sacrifício; como ao bom, assim ao pecador, como ao que jura, assim também ao que teme os juramentos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Em tudo o que se faz debaixo do sol está este mal, porque a todos sucede o mesmo; também o coração do homem está cheio de mal; há maligno erro em seu coração e em sua vida, e seu fim será com os mortos.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Todo aquele que está unido a qualquer ser vivo, terá confiança, porque melhor é cão vivo do que leão morto.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Porque os que vivem sabem que hão de morrer, mas os mortos nada sabem e não voltarão a ter recompensa, porque a sua memória tem sido apagada.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Assim também seu amor, seu ódio e sua ira já não existem, e nunca mais terão porção em tudo quanto se faz debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Porquanto Alaha se tem agradado das tuas ações, vai, come teu pão com alegria, e bebe teu vinho com coração contente.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Em todo tempo sejam brancas tuas vestesa e nunca falte unguento sobre a tua cabeçab.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 9,
-    "texto": "Apreciac a vida com a mulher que amas1 todos os dias de tua vida vã, porque esta é tua porção na vida e em teu duro trabalho com o qual te ocupas debaixo do sol.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Que proveito tem quem trabalha, de tudo aquilo com o qual se afana?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 10,
-    "texto": "Tudo o que tua mão seja capaz de fazer, faze-o com tua força, porque no Shiol, aonde tu vais, não há obra, nem propósito, nem conhecimento, nem sabedoria.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tenho visto o trabalho que Elohim tem imposto aos filhos do homem para que o cumpram.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 11,
-    "texto": "Então me virei e vi debaixo do sol, que a corrida não é para os velozesd, nem a guerra para os valentes, nem o pão para os sábios, nem a riqueza para os inteligentes, nem a hora para os entendidos, mas chega para todos o tempo e a oportunidade.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tudo o fez formoso em seu tempo, e pôs eternidade no coração deles, sem que o homem alcance entender a obra que Ha-Elohim tem feito desde o princípio até o fim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 12,
-    "texto": "Porque o homem tampouco conhece seu tempo. Como os peixes que foram apanhados em uma maligna rede, e como as aves que foram capturadas em uma armadilha, assim os homens são presos no tempo da adversidade quando cai subitamente sobre eles.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Sei que não há nada melhor para eles do que alegrar-se e desfrutar sua vida.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 13,
-    "texto": "Também vi esta sabedoria debaixo do sol, e foi grandioso para mim:",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "E também que é dom de DEUS que todo homem coma e beba, e veja o fruto de todo seu labor.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 14,
-    "texto": "Havia uma cidade pequena na qual habitavam poucos homens, e veio então contra ela um grande rei, ele a sitioue e levantou baluartes contra ela.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tenho entendido que tudo o que Ha-Elohim faz é perpétuo; sobre aquilo não se acrescentará, nem dele se diminuirá. Ha-Elohim o fez assim, para que os homens temam diante dEle.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 15,
-    "texto": "E se encontrava nela um homem pobre que era sábio; e o pobre com sua sabedoria livrou a cidade, contudo, ninguém se lembrou do homem pobre.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "O que é, já tem sido,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
+    "versículo": 15,
+    "parte": null,
+    "texto": "E o que será, já foi,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 15,
+    "parte": null,
+    "texto": "E Elohim faz voltar o que passou.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
     "versículo": 16,
-    "texto": "Então, disse: Melhor do que o poder é a sabedoriaf; contudo, a sabedoria do pobre é menosprezada, e a suas palavras não se presta atenção.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Vi mais debaixo do sol: no lugar do direito, ali a impiedade; e no lugar da justiça, ali a iniquidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 17,
-    "texto": "As palavras dos sábios são escutadas em quietude, mais do que os gritos de um governante insensato.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "E disse em meu coração: Ao justo e ao perverso os julgará Ha-Elohim, porque ali há um tempo para cada assunto e para cada obra.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 18,
-    "texto": "Melhor do que as armas de guerra é a sabedoria; mas muitas coisas boas destrói um pecador.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Com respeito aos filhos do homem, disse em meu coração: Ha-Elohim os tem provado para que eles mesmos vejam que são semelhantes aos animais,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "O coração do sábio o inclina para sua destra, e o coração do insensato para sua esquerda.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "Mesmo que o insensato vá pelo caminho, lhe faltará entendimento; será insensatez tudo o que vier a pensar.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "Se o espírito do governante se exalta contra ti, não percas a compostura2, porque o perdoar as muitas ofensas traz restauração.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Há um mal que observei debaixo do sol, como erro que procede do governante:",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "que o insensato se assente em posições elevadas de poder, enquanto os ricos se assentam em uma posição humilde.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Vi servos a cavalo, e governantes caminhando como servos sobre a terra.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "O que cavar um buraco cairá nelea, e o que abrir brecha em um cerco será mordido por uma serpente.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "O que move pedras de um lugar para outro será maltratado por elas, e o que racha lenhas se fraturará.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "Mesmo quando o ferro de um machado está embotado, e o fio de corte em más condições, a muitos pode matar. A sabedoria é proveitosa para os diligentes.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 11,
-    "texto": "Se a serpente morder sem ser encantada, não haveria lucro para o encantador.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 12,
-    "texto": "As palavras da boca do sábio são para honra, mas os lábios do insensato o afundam em problemas.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 13,
-    "texto": "O princípio de seu falar1 é insensatez, e o final de seu falar2 uma vergonha prejudicial,",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 14,
-    "texto": "porque o insensato fala muitas palavras. O homem desconhece o que sucedeu, e o que será depois deleb quem lhe poderá declarar?",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 15,
-    "texto": "O trabalho dos insensatos o cansa tanto que não sabem ir à cidade.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 16,
-    "texto": "Ai de ti, ó cidade, quando teu rei for um jovem, e teus príncipes façam banquetes pela manhã.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 17,
-    "texto": "Bendita és tu, ó cidade, quando teu rei seja nobre, e teus príncipes comam a seu devido tempo, para se fortalecer e não para festança!",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 18,
-    "texto": "Por causa da preguiça o teto desabará, e devido à negligência haverá goteiras na casa.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 19,
-    "texto": "Com o fim de desfrutá-los se preparam o pão, o vinho e o azeite que alegram a vida; mas o dinheiroc derruba e lhes causa desvio em tudo.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "porque o mesmo que ocorre ao homem, ocorre ao animal, um mesmo fato é: como um morre, assim morre o outro. Todos têm um mesmo alento. O homem não tem vantagem sobre o animal, porque tudo é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
     "versículo": 20,
-    "texto": "Nem sequer com teu pensamento insultes o rei, nem no teu quarto insultes o rico, porque uma ave silvestre levará tua voz, e um que tem asas dará a conhecer teu assunto.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Todos vão a um mesmo lugar,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 3,
+    "versículo": 20,
+    "parte": null,
+    "texto": "Todos procedem do pó,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 20,
+    "parte": null,
+    "texto": "E todos voltam ao pó.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 21,
+    "parte": null,
+    "texto": "Quem conhece o espírito dos filhos do homem? Sobe para o alto? E a respiração do animal? Desce à terra?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 22,
+    "parte": null,
+    "texto": "Assim, pois, tenho visto que não há nada melhor para o homem que alegrar-se em suas obras, pois essa é sua porção. Porque quem o levará para que veja o que haverá depois dele?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 3,
+    "versículo": 23,
+    "parte": null,
+    "texto": "Paradoxo",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 4,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Voltei-me e vi todas as opressões que se cometem debaixo do sol, e eis as lágrimas dos oprimidos sem que ninguém os consolasse, e do lado de seus opressores a força bruta, sem que ninguém os consolasse.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 4,
     "versículo": 2,
-    "texto": "Reparte porção a sete, ainda a oito, pois não sabes que mal sobrevirá à terra.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "E louvei os que já haviam morrido, mais do que os que ainda vivem,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 3,
-    "texto": "Se as nuvens estão carregadas, derramarão chuva sobre a terra; e se uma árvore cai para o sul ou para o lado norte, no lugar onde a árvore caiu, ali ficará.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "porém, mais feliz que ambos, é aquele que até agora não tem sido, que não tem visto as más obras que se fazem debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 4,
-    "texto": "Aquele que observa o vento não semeará, e o que contempla as nuvens não colherá.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Tenho visto também que todo trabalho e toda obra excelente desperta a inveja do homem contra seu próximo. Também isto é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 5,
-    "texto": "Assim como não sabes qual o caminho do vento, nem como concebeu a grávida, tampouco conhecerás as obras de Marya, tudo o que Ele fará.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "O néscio cruza seus braços e devora sua própria carne.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 6,
-    "texto": "Semeia tua semente cada manhã e pela tarde não apartes tua mão, pois não sabes qual prosperará; se esta ou aquela, ou se ambas são igualmente boas.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Mais vale um punhado de sossego do que ambos punhos cheios de trabalho e de correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 7,
-    "texto": "Agradável é a luz e boa para os olhos, e muito melhor para aqueles que veem o sol;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Voltei-me outra vez e vi esta vaidade debaixo do sol:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 8,
-    "texto": "porque se um homem vive muitos anos, em todos eles se regozijará; contudo se lembrará dos dias de escuridão, porque serão muitos. Tudo quanto sucede é vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Há quem está sozinho, sem ninguém que o acompanhe, sem filhos nem irmãos, mas ainda assim seu afã não tem fim, seu olho não se farta de riquezas e não se pergunta: Para que, pois, me azafamo e me privo de prazeres? Também isto é vaidade e tarefa penosa.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 9,
-    "texto": "Alegra-te jovem nos dias de tua juventudea, pois bem te sucederá; anda pelos caminhos de teu coração e conforme vejam teus olhosb, mas tenha em mente que por todas estas coisas Marya te trará a juízo.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Dois podem mais que um, porque têm melhor paga por seu trabalho.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 10,
-    "texto": "Retira a ira de teu coração e remove da tua carne o mal; porque a juventude e a ignorância são algo vão.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Porque se caem, um levantará o outro; mas ai do que está só! Quando cair não haverá quem o levante.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 2,
-    "texto": "antes que se escureçam o sol e a luz da lua e das estrelas, e as nuvens voltem depois da chuva;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 3,
-    "texto": "no dia em que tremerem os guardas da casa, e os poderosos vacilem, que as que moem estejam ociosas por serem poucas, e se escureçam aqueles que olham pelas janelas;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 4,
-    "texto": "quando as portas nas ruas se fecharem por ser fraco o ruído das que moem, e se eleve o canto das aves e sejam abatidas todas as filhas valiosas.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 5,
-    "texto": "Também quando temeres a altura e te espantares em teus caminhos, e suba a sentinela contra ele, quando floresça a amendoeira, multiplique-se o gafanhoto, a alcaparra se disperse e se invalide a maldade porque o homem vai à casa de sua ocupação, e andem pelas ruas os que estão de luto.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 6,
-    "texto": "Recorde, antes que se corte o cordão de prata, e se quebre a copa de ouro, e se rompa o cântaro junto à fonte, e caia a roda na cova.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 7,
-    "texto": "Então voltará o pó à terra, como o que era, e o espírito voltarác a Marya que o deu.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 8,
-    "texto": "Vaidade de vaidades, diz o Pregador, vaidade de vaidades, tudo é vãod.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 9,
-    "texto": "E quanto mais sábio era o Pregador (pois ensinava conhecimento ao povo, e analisou, investigou e compôs muitos provérbiose),",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
-    "versículo": 10,
-    "texto": "o Pregador tratou arduamente de achar palavras agradáveis, e certamente escreveu palavras de verdade.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
-  },
-  {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 11,
-    "texto": "As palavras dos sábios são como aguilhões, e como pregos fixados por hábeis carpinteiros, repartidas por um pastor.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Se dois se deitam juntos, se aquecem entre si, mas um só, como se aquecerá?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 12,
-    "texto": "Mas além destas coisas, filho meu, fique advertido: o escrever livros é algo sem fim, e o muito falar é fadiga da carnef.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "E se alguém prevalece contra um, os dois o resistirão; e cordão de três dobras não se rompe logo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 13,
-    "texto": "A conclusão do discurso ao fim de tudo o que se escutou é: Teme a Marya e guarda seus mandamentosg, porque isto tem sido atribuído por alguém hábil a todo homem;",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "Mais vale jovem pobre e sábio, do que rei velho e tolo que não admite conselhos;",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   },
   {
-    "parte": 21,
-    "capítulo": null,
+    "capítulo": 4,
     "versículo": 14,
-    "texto": "pois Marya trará a juízoh todas as ações juntamente com tudo o que é oculto ou revelado, seja bom ou seja mau.",
-    "livro": "Eclesiastes",
-    "sigla": "ec"
+    "parte": null,
+    "texto": "ainda que da prisão tenha saído para reinar, ou ainda que em seu reino tenha nascido pobre.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 4,
+    "versículo": 15,
+    "parte": null,
+    "texto": "Vi a todos os viventes debaixo do sol marchando com o jovem sucessor que o substituirá.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 4,
+    "versículo": 16,
+    "parte": null,
+    "texto": "A multidão que o seguia não tinha fim; entretanto, os que venham depois tampouco estarão contentes com ele. Certamente isto também é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 4,
+    "versículo": 17,
+    "parte": null,
+    "texto": "Vaidade da riqueza",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quando fores à Casa de DEUS, guarda teu pé e aproxima-te mais para ouvir do que para oferecer o sacrifício dos tolos, porque não sabem que fazem mal.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 2,
+    "parte": null,
+    "texto": "Não tenhas pressa com a tua boca, nem se apresse o teu coração em proferir palavra ante Ha-Elohim, porque Ha-Elohim está nos céus e tu na terra, portanto, sejam poucas as tuas palavras.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 3,
+    "parte": null,
+    "texto": "Porque das muitas ocupações vêm os sonhos, e das muitas palavras o dito do néscio.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 4,
+    "parte": null,
+    "texto": "Quando fizeres um voto a Elohim, não tardes em cumpri-lo, pois não há complacência nos néscios. Cumpre o que prometes.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 5,
+    "parte": null,
+    "texto": "Melhor é que não prometas, a que prometas e não cumpras.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Não deixes que tua boca te faça pecar, nem digas diante do Anjo que foi ignorância. Por que farás com que Ha-Elohim se ire por causa de tuas palavras e destrua a obra de tuas mãos?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 7,
+    "parte": null,
+    "texto": "Porque onde abundam os sonhos, abundam as vaidades e as muitas palavras. Mas tu, teme a Ha-Elohim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 8,
+    "parte": null,
+    "texto": "Se vês a opressão aos pobres, e a perversão do direito e da justiça em alguma província, não te turbes por causa disto, porque sobre o alto vigia outro mais alto, e há Alguém ainda mais alto que eles.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Mas em todo sentido, o proveito de um país é que o próprio rei se preocupe por seu território.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 10,
+    "parte": null,
+    "texto": "O que ama a prata nunca se saciará da prata, e o que ama a riqueza, não terá ganho, e também isto é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 11,
+    "parte": null,
+    "texto": "Quando aumentam os bens, aumentam os que o consomem. Que proveito, pois, terá seu dono além de vê-los com seus próprios olhos?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Coma pouco ou coma muito, doce é o sono do homem trabalhador; mas a abundância não deixa o rico dormir.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Há um mal grave que tenho visto debaixo do sol: riqueza guardada por seu dono para seu próprio prejuízo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 14,
+    "parte": null,
+    "texto": "Pois se perde essa riqueza em um negócio infortunado, e quando se engendra um filho, nada lhe resta em sua mão.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 15,
+    "parte": null,
+    "texto": "Como saiu do ventre de sua mãe, assim voltará nu como veio, e por seus afãs não receberá nada que possa levar na sua mão.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 16,
+    "parte": null,
+    "texto": "E este também é um mal grave: o que tenha que ir-se tal como veio, e que proveito lhe restará de haver-se afanado por perseguir o vento?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 17,
+    "parte": null,
+    "texto": "Já que todos os seus dias comeu em trevas, cansando-se, enfermando-se e irando-se.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 18,
+    "parte": null,
+    "texto": "Eis o que tenho visto: É bom e próprio que o homem coma e beba, e desfrute do bem de todo o trabalho com que se fatiga debaixo do sol todos os dias de vida que Ha-Elohim lhe concedeu, porque esta é sua porção.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 19,
+    "parte": null,
+    "texto": "Da mesma forma, a todo homem a quem Ha-Elohim tem dado bens e riquezas, e lhe tem dado capacidade para que as desfrute e tome sua porção e se regozije em seu trabalho, isto também é dom de DEUS,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 20,
+    "parte": null,
+    "texto": "para que não reflita muito durante os dias de sua vaidade, enquanto Ha-Elohim o mantinha absorvido com o gozo de seu coração.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 5,
+    "versículo": 21,
+    "parte": null,
+    "texto": "Absurdos da vida",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Há outro mal que tenho visto debaixo do sol, e que é grave para os homens:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 2,
+    "parte": null,
+    "texto": "O do homem a quem Ha-Elohim tem dado riquezas, tesouros e honras, de modo que nada lhe falta de tudo quanto sua alma possa desejar, mas a quem Ha-Elohim não lhe permite desfrutá-lo, senão que o desfrutam os estranhos. Isto é vaidade e um mal doloroso.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 3,
+    "parte": null,
+    "texto": "Ainda que um homem conceba cem e viva muitos anos, e sejam numerosos os dias de sua vida, se sua alma não se saciou de felicidade, digo: melhor que ele é um aborto,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 4,
+    "parte": null,
+    "texto": "que chega em um sopro e se vai às escuras, e a escuridão encobre seu nome;",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 5,
+    "parte": null,
+    "texto": "não viu o sol, nem se inteira de nada, nem recebe sepultura, mas descansa melhor que o outro,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 6,
+    "parte": null,
+    "texto": "porque ainda que houvesse vivido mil anos duas vezes, se não desfrutou da felicidade, não vão todos a um mesmo lugar?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 7,
+    "parte": null,
+    "texto": "Todo o trabalho do homem é para sua boca, e ainda assim, sua alma não se sacia.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 8,
+    "parte": null,
+    "texto": "Que proveito tem o sábio mais que o néscio? Que vantagem tem o pobre que soube comportar-se entre os viventes?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Mais vale o que os olhos veem do que o divagar da alma. Também isto é vaidade e correr atrás do vento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 10,
+    "parte": null,
+    "texto": "Ao que existe já lhe havia sido dado nome, e sabe-se que é somente um homem, e que não pode contender com quem é mais forte que ele.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 11,
+    "parte": null,
+    "texto": "Quanto mais palavras, mais vaidade: que proveito obtém o homem?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Porque quem sabe o que é bom na vida para o homem, todos os dias de sua vida vã? Passá-los-á como uma sombra, pois quem anunciará ao homem o que ocorrerá depois dele debaixo do sol?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 6,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Melhor é...",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Melhor é um bom nome que um bom unguento,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E melhor o dia da morte do que o dia do nascimento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Melhor é ir à casa do luto que à casa do banquete,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque aquilo é o fim de todo homem,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o vivente deve pôr isto em seu coração.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Melhor a tristeza que o riso,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque o semblante triste",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "emenda o coração.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O coração dos sábios está na casa do luto,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mas o coração do néscio, na casa do prazer.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Melhor é ouvir a repreensão do sábio do que o canto dos tolos:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Crepitar dos espinhos debaixo da panela, tal é o riso do tolo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E isto também é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Certamente as pressões fazem o sábio ser tolo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E um presente destrói a vontade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Melhor é o fim de um assunto do que seu começo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o paciente de espírito melhor do que o altivo de espírito.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não te apresses em tua alma a irar-te,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque a ira repousa no seio dos néscios.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Nunca digas:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Por que os tempos passados",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "foram melhores que estes?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não é sábio que perguntes isto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O conhecimento é tão bom como a herança,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E aproveita aos que veem o sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Porque estar à sombra do conhecimento é como estar à sombra do dinheiro,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Mas a sabedoria supera o conhecimento dando vida a seus possuidores.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Considera a obra de DEUS:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Quem poderá endireitar o que Ele torceu?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 14,
+    "parte": null,
+    "texto": "No dia do bem goza do bem, e no dia da adversidade reflete: Ha-Elohim tem feito tanto um como o outro para que o homem não saiba o que ocorrerá depois dele.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 15,
+    "parte": null,
+    "texto": "Esta dualidade tenho visto em minha vida vã: Há justo que fracassa por sua justiça, e há ímpio que prospera em sua impiedade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 16,
+    "parte": null,
+    "texto": "Não sejas justo ao extremo, nem presumas ser muito sábio; para que matar-se?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 17,
+    "parte": null,
+    "texto": "Não sejas ímpio ao extremo nem insensato. Por que morrer antes do tempo?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 18,
+    "parte": null,
+    "texto": "Bom é que te aferres a isto sem soltar aquilo, porque o que teme a Elohim em tudo se sai bem.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 19,
+    "parte": null,
+    "texto": "A sabedoria faz o sábio mais forte do que dez poderosos em uma cidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 20,
+    "parte": null,
+    "texto": "Certamente, não há homem justo na terra que faça o bem e nunca peque.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 21,
+    "parte": null,
+    "texto": "Não dês atenção a tudo o que se fala, nem escutes o teu servo quando te amaldiçoa,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 22,
+    "parte": null,
+    "texto": "pois sabes muito bem que muitas vezes tu mesmo tens amaldiçoado a outros.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 23,
+    "parte": null,
+    "texto": "Todas estas coisas experimentei com sabedoria, dizendo: Serei sábio; mas isso estava longe de mim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 24,
+    "parte": null,
+    "texto": "O que existe é remoto e extremamente profundo, quem o poderá achar?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 25,
+    "parte": null,
+    "texto": "Dirigi meu coração ao saber, a esquadrinhar e a buscar o conhecimento e a razão, procurando conhecer qual é a pior insensatez, a tolice mais absurda,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 26,
+    "parte": null,
+    "texto": "e achei mais trágica que a morte a mulher cujo coração é laços e redes, e suas mãos ligaduras. O que agrada a Ha-Elohim escapará dela, mas o pecador será aprisionado por ela.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 27,
+    "parte": null,
+    "texto": "Eis que, diz Qohélet, sopesando uma por uma as coisas para achar uma razão,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 28,
+    "parte": null,
+    "texto": "o que ainda busca minha alma sem haver encontrado: Um homem entre mil achei, mas uma mulher entre todas elas não tenho encontrado.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 29,
+    "parte": null,
+    "texto": "Somente isto tenho achado: que Ha-Elohim fez o homem reto, mas eles buscaram muitas perversões.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 7,
+    "versículo": 30,
+    "parte": null,
+    "texto": "Mistério da obra de Deus",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quem é como o sábio?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quem sabe interpretar um assunto?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "A sabedoria ilumina o rosto do homem,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E muda a dureza de seu",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "semblante.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Digo:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Guarda o mandato do rei,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Por causa do juramento ante Elohim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não te apresses em retirar-te de sua presença nem resistas a sua ameaça, porque ele faz o que lhe agrada,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E a palavra do rei é soberana. Quem lhe pedirá conta do que faz?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O que observa o mandamento não experimentará coisa má,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o coração do sábio discerne o tempo e o juízo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "(Porque para cada assunto há um tempo e um juízo).",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Certamente o mal que gravita sobre o homem é grande,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Pois não sabe o que ocorrerá.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E quando estiver por ocorrer,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quem lho anunciará?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 8,
+    "parte": null,
+    "texto": "Não há homem que tenha poder sobre o espírito para reter o espírito, nem potestade sobre o dia da morte. Não há escape em tal guerra, nem a impiedade livrará o que a possui.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Tudo isto tenho visto, e dediquei meu coração a tudo o que ocorre debaixo do sol, enquanto um homem domina a outro para seu mal.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 10,
+    "parte": null,
+    "texto": "Vi também os grandes funerais dos ímpios que frequentavam o lugar santo, enquanto na cidade logo eram esquecidos os que atuaram honestamente. Também isto é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 11,
+    "parte": null,
+    "texto": "Porquanto não se executa sentença imediata contra uma obra má, o coração dos filhos do homem está pronto a fazer o mal.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Mas ainda que o pecador faça o mal cem vezes e prolongue seus dias, sei que irá bem aquele que teme diante de DEUS,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 13,
+    "parte": null,
+    "texto": "e que ao ímpio não irá bem, nem seus dias serão prolongados, que serão como uma sombra, porquanto não teme diante de DEUS.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 14,
+    "parte": null,
+    "texto": "Há outra vaidade que ocorre sobre a terra: há justos a quem acontece conforme a obra dos ímpios, e há ímpios a quem acontece conforme a obra dos justos. Digo que também isto é vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 15,
+    "parte": null,
+    "texto": "Portanto, louvo o prazer, porque não há coisa melhor para o homem debaixo do sol do que comer e beber e estar alegre, e que isto lhe reste de seus afãs os dias de sua vida que Ha-Elohim lhe concede debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 16,
+    "parte": null,
+    "texto": "Quando apliquei meu coração a conhecer a sabedoria e a ver a tarefa que se faz sobre a terra (porque há os que nem de dia nem de noite veem o sono com seus olhos),",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 17,
+    "parte": null,
+    "texto": "considerei toda a obra de DEUS, a qual não pode ser decifrada pelo homem debaixo do sol, pois por mais que se afane nisto, o homem não o averiguará, e ainda que algum sábio pretenda sabê-lo, nem por isso o descobrirá.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 8,
+    "versículo": 18,
+    "parte": null,
+    "texto": "Elogio à sabedoria",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Por tudo isso dediquei meu coração para declarar que os justos e os sábios e suas obras, todas estas coisas, estão na mão de DEUS, ainda o amor e o ódio, mas o homem não o sabe, ainda que tudo esteja diante deles.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 2,
+    "parte": null,
+    "texto": "Tudo acontece a todos da mesma forma. O mesmo ocorre ao justo e ao ímpio, ao bom, ao puro e ao impuro, ao que oferece sacrifícios e ao que não os oferece; tanto ao reto como ao pecador, ao que jura em vão como ao que respeita seu juramento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 3,
+    "parte": null,
+    "texto": "Tal é o mal entre tudo o que ocorre debaixo do sol, que haja uma mesma sorte para todos, e que o coração dos filhos do homem esteja cheio de maldade, e que a loucura aninhe em seu coração enquanto viva, e depois disto... aos mortos!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 4,
+    "parte": null,
+    "texto": "Mas há esperança para todo aquele que está entre os vivos, pois melhor é cão vivo que leão morto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 5,
+    "parte": null,
+    "texto": "Porque os vivos sabem que hão de morrer, mas os mortos nada sabem, nem têm mais recompensa, porque até sua memória é posta no esquecimento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Pereceram com seu amor, com seu ódio e com sua inveja, e nunca mais terão parte alguma em tudo o que se faz debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 7,
+    "parte": null,
+    "texto": "Anda, come teu pão com gozo, e bebe teu vinho com coração alegre, porque tuas obras já são aceitáveis a Ha-Elohim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 8,
+    "parte": null,
+    "texto": "Em todo tempo sejam brancas as tuas vestiduras, e nunca falte unguento sobre tua cabeça.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Goza a vida com a mulher que amas, todos os dias de tua vida vã que te hão concedido debaixo do sol. Sim, todos os dias de vaidade, pois esta é a tua recompensa na vida e no trabalho em que te afanas debaixo do sol.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 10,
+    "parte": null,
+    "texto": "Tudo quanto vier fazer tua mão, faze-o com tuas forças, porque no Sheol, aonde vais, não há obra nem propósito, nem conhecimento nem sabedoria.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 11,
+    "parte": null,
+    "texto": "Voltei-me e vi debaixo do sol que a carreira não é dos velozes, nem a batalha dos fortes, nem dos sábios o pão, nem dos inteligentes a riqueza, nem dos eloquentes o favor, mas que um tempo e uma sorte alcançam a todos eles.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Mas o homem não conhece seu tempo. Como os peixes são apanhados na malévola rede e os pássaros caem na armadilha, assim são apanhados os homens no tempo mau, quando ele lhes sobrevém de repente.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 13,
+    "parte": null,
+    "texto": "Também vi algo que para mim é de grande sabedoria debaixo do sol:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 14,
+    "parte": null,
+    "texto": "Uma pequena cidade com poucos homens nela, e chega contra ela um grande rei, e a assedia e construiu contra ela grandes torres de assédio.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 15,
+    "parte": null,
+    "texto": "E nela se achou um homem pobre, mas sábio, o qual livra a cidade com sua sabedoria. Entretanto, ninguém se lembrava daquele homem pobre.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 16,
+    "parte": null,
+    "texto": "Então me disse: Melhor é a sabedoria do que a força, mas a sabedoria do pobre é menosprezada, e suas palavras não são escutadas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 17,
+    "parte": null,
+    "texto": "As palavras dos sábios ditas em quietude são mais aceitáveis que o vociferar de um soberano entre os tolos.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 18,
+    "parte": null,
+    "texto": "Melhor é a sabedoria do que as armas de guerra, mas um só que erre pode destruir muitas coisas boas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 9,
+    "versículo": 19,
+    "parte": null,
+    "texto": "Vantagens do sábio sobre o tolo",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Uma mosca morta faz feder o perfume do perfumista. Assim uma pequena loucura ao que é estimado como sábio e honorável.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 2,
+    "parte": null,
+    "texto": "O coração do sábio se inclina à sua destra; mas o coração do tolo, à sua esquerda.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 3,
+    "parte": null,
+    "texto": "Ainda enquanto vai em caminho falta cordura ao tolo; a todos vai anunciando que é tolo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 4,
+    "parte": null,
+    "texto": "Se o ânimo do príncipe se levanta contra ti, não deixes teu lugar, porque a mansidão apazigua grandes ofensas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 5,
+    "parte": null,
+    "texto": "Há um mal que tenho visto debaixo do sol, como erro que procede do soberano:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O tolo colocado em um alto cargo, enquanto os dotados permanecem humilhados.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Tenho visto servos a cavalo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E príncipes andando a pé como servos.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O que cava um buraco cairá nele,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E ao que romper um cerco,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "mordê-lo-á uma serpente.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O que corta pedras se machucará com elas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E o que parte lenhas se expõe ao perigo nisto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Se o ferro está embotado, e alguém não o afia, deve-se aplicar mais força.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O proveitoso, pois, é empregar a sabedoria.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Se o ofídio morde antes de ser encantado,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "De nada serve o encantador.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "As palavras do sábio são",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "proveitosas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "mas os lábios do tolo causam sua própria ruína.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O princípio das palavras de sua boca é a necedade,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E o fim de sua peroração não é mais que um triste desvario.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Do mesmo modo, o néscio",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "multiplica as palavras:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O homem não sabe o que lhe há de suceder,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E o que sucederá depois dele, quem lho anunciará?",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "O trabalho dos tolos os fatiga tanto,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Que nem sabem como ir à cidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Ai de ti, ó terra, quando teu rei é um rapaz,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E teus príncipes banqueteiam de manhã!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Bendita tu, ó terra, quando teu rei é filho de nobres,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E teus príncipes comem a seu tempo para repor forças e não para embriagar-se!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Pela folgança se derruba o teto,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E pela indolência de mãos a casa se enche de goteiras.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Pelo prazer se faz o banquete,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E o vinho alegra a vida,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "E o dinheiro serve para tudo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Nem em teu pensamento",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "insultes ao rei,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Nem em teu próprio quarto amaldiçoes o rico,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Porque uma ave dos céus levará o rumor,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Um ser alado contará o assunto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 10,
+    "versículo": 6,
+    "parte": null,
+    "texto": "Conselhos",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Lança teu pão sobre as águas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque depois de muitos dias o acharás.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Reparte porção a sete, e ainda a oito,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque não sabes o mal que virá sobre a terra.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Se as nuvens estão cheias de chuva,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Esvaziar-se-ão sobre a terra,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E se uma árvore cai para o sul ou para o norte,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "No lugar onde cai ficará.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O que considera o vento não semeará,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o que olha as nuvens não segará.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Assim como não sabes qual é a senda do espírito,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Nem como crescem os ossos no ventre da que está grávida,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Assim ignoras a obra de DEUS,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "O qual faz todas as coisas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Pela manhã semeia tua semente,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E à tarde não deixes repousar a tua mão,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque não sabes o que é o melhor, se isto ou aquilo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Ou se ambas as coisas serão igualmente boas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Doce, certamente, é a luz,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E grato aos olhos contemplar o sol,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mas ainda que o homem viva muitos anos,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E em todos eles tenha gozo,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Considere, contudo, que muitos mais serão os dias de escuridão.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tudo quanto vem é vaidade!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Alegra-te, ó jovem, por tua juventude,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E tome prazer teu coração nos dias de tua mocidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Anda nos caminhos de teu coração,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E após a vista de teus olhos,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Mas tem em conta que por todas estas coisas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Julgar-te-á Ha-Elohim.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Aparta, então, a frustração de teu coração",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E afasta o mal de tua carne,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque a mocidade e a juventude são vaidade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 11,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Prelúdio da morte",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Lembra-te de teus de Criadores, de Alef-Tav, nos dias de tua juventude,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Antes que venham os dias maus,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E se aproximem os anos em que digas:",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Não tenho neles contentamento.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Antes que se escureçam o sol e a luz, e a lua e as estrelas,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E as nuvens voltem atrás da chuva.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "No dia em que tremam os",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "guardiães da casa,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E se encurvem os homens fortes,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E cessem as que moem, porque hão diminuído,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E se enturvem as que olham",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "pelas gelosias.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quando se fecharem as portas da rua,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Por ser fraco o som do moinho,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E alguém se despertar com o gorjeio do passarinho,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E emudecerem todas as filhas do canto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Quando também se tema o que é alto,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E os terrores do caminho,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E floresça a amendoeira,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E se arraste o gafanhoto, e a alcaparra não faça seu efeito,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Porque o homem anda até sua morada eterna,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Enquanto os que pranteiam",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "rondam pelas ruas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Antes que se rompa o cordão de prata e se esmague a tigela de ouro,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o cântaro se quebre junto à fonte,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E a roda, em pedaços, caia no poço,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o pó volte à terra, de onde",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "procede,",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "E o espírito retorne a Ha-Elohim, que o deu.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Vaidade de vaidades, diz Qohélet.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Tudo é vaidade!",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 1,
+    "parte": null,
+    "texto": "Exortação final",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 9,
+    "parte": null,
+    "texto": "Quanto mais sábio foi Qohélet, mais deu ao povo de seu conhecimento. E sopesou, e esquadrinhou e compôs muitos provérbios.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 10,
+    "parte": null,
+    "texto": "Qohélet procurou achar palavras aceitáveis e escritura reta, palavras de verdade.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 11,
+    "parte": null,
+    "texto": "As palavras dos sábios são como espinhos e como estacas cravadas pelos donos dos rebanhos dados a um pastor.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 12,
+    "parte": null,
+    "texto": "Filho meu, tem em conta que o fazer muitos livros não tem fim, e o muito estudo é fatiga da carne.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 13,
+    "parte": null,
+    "texto": "O fim de todo discurso ouvido é: Teme a Ha-Elohim, e guarda seus mandamentos, pois isto é o tudo do homem.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 14,
+    "parte": null,
+    "texto": "Porque Ha-Elohim trará toda obra a juízo, com toda coisa oculta, seja boa ou seja má.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 15,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 16,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 17,
+    "parte": null,
+    "texto": "As palavras... Pode ser interpretado como as reflexões; Qohélet... Isto é, o rei Salomão. Heb. Qohéleth = o que convoca a assembleia (com o propósito de comunicar verdades divinas). ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 18,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 19,
+    "parte": null,
+    "texto": "Vaidade de vaidades... Heb. habel habalim = sopro de sopros. Superlativo que expressa a máxima vaidade no sentido de algo vazio e fugaz como o alento. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 20,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 21,
+    "parte": null,
+    "texto": "debaixo do sol... Esta expressão (que se repete",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 22,
+    "parte": null,
+    "texto": "vezes) assinala as realidades fugazes deste mundo. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 23,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 24,
+    "parte": null,
+    "texto": "Ofegando... Hebraísmo que expressa pressa →Sl",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 25,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 26,
+    "parte": null,
+    "texto": ". ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 27,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 28,
+    "parte": null,
+    "texto": "para correr... Lit. para ir. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 29,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 30,
+    "parte": null,
+    "texto": "Elohim... Qohélet nunca se refere a Deus por seu nome pessoal YHVH, senão como Elohim, o Governante do que está debaixo do sol, isto é, do mundo.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 30,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 31,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 32,
+    "parte": null,
+    "texto": "frustração... Lit. tristeza. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 33,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 34,
+    "parte": null,
+    "texto": "souto... Isto é, bosque ou mata densa. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 35,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 36,
+    "parte": null,
+    "texto": "nascidos em casa... Lit. filhos da casa. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 37,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 38,
+    "parte": null,
+    "texto": "a porção... Isto é, a recompensa.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 38,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 39,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 40,
+    "parte": null,
+    "texto": "é bom... Isto é, que o agrada. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 41,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 42,
+    "parte": null,
+    "texto": "eternidade... Heb. ha’olam. O vocábulo significa primordialmente o que está oculto para o homem (entre as brumas do passado e um futuro igualmente remotos). Isto é, a dificuldade extrema do ser humano para compreender a obra de Deus. Ainda assim, o Criador pôs no homem o conceito da eternidade (de que vive através do tempo) e por isso se sabe mortal. O estilo pertinente de Qohélet, cujo interesse se move unicamente entre as coisas que sucedem debaixo do sol, exibe o fracasso de todos os humanos, sem distinção, ante a realidade da morte.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 42,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 43,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 44,
+    "parte": null,
+    "texto": "o que passou... Lit. o perseguido. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 45,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 46,
+    "parte": null,
+    "texto": "Emenda Soferim →",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 47,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 48,
+    "parte": null,
+    "texto": "; §",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 49,
+    "parte": null,
+    "texto": "; §",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 50,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 50,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 51,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 52,
+    "parte": null,
+    "texto": "se preocupe... Texto de difícil tradução. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 53,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 54,
+    "parte": null,
+    "texto": "nada lhe resta... Isto é, para manter seu filho.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 54,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 55,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 56,
+    "parte": null,
+    "texto": "cem... Isto é, cem filhos; felicidade... Algumas versões acrescentam a frase nem recebe sepultura que deve ir no v.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 57,
+    "parte": null,
+    "texto": ". ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 58,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 59,
+    "parte": null,
+    "texto": "divagar da alma... Isto é, dos desejos. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 60,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 61,
+    "parte": null,
+    "texto": "Que proveito... Isto é, de tanto falar. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 62,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 63,
+    "parte": null,
+    "texto": "nome... unguento... Assonância de shem = nome, com shemen = unguento. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 64,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 65,
+    "parte": null,
+    "texto": "as pressões... Segundo o contexto se refere aqui à pressão coercitiva que exerce o dinheiro nas decisões humanas.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 65,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 66,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 67,
+    "parte": null,
+    "texto": "a sabedoria... Heb. da’ath. Aqui, o conhecimento experimental de Deus. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 68,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 69,
+    "parte": null,
+    "texto": "isto... →v.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 70,
+    "parte": null,
+    "texto": "; aquilo... →v.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 71,
+    "parte": null,
+    "texto": ". ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 72,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 73,
+    "parte": null,
+    "texto": "o mandato... Lit. a boca. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 74,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 75,
+    "parte": null,
+    "texto": "retirar-te... Isto é, retirar-te irado. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 76,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 77,
+    "parte": null,
+    "texto": "-",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 78,
+    "parte": null,
+    "texto": "o tempo e o juízo... Isto é, o tempo oportuno e o procedimento correto.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 78,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 79,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 80,
+    "parte": null,
+    "texto": "apliquei... Lit. dei. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 81,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 82,
+    "parte": null,
+    "texto": "em vão.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 82,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 83,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 84,
+    "parte": null,
+    "texto": "que te afanas... Lit. que trabalhas. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 85,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 86,
+    "parte": null,
+    "texto": "vai anunciando... O particípio é significativo. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 87,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 88,
+    "parte": null,
+    "texto": "ânimo... Lit. espírito; não deixes teu lugar... Isto é, não percas a calma.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 88,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 89,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 90,
+    "parte": null,
+    "texto": "encantador... Lit. dono da língua. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 91,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 92,
+    "parte": null,
+    "texto": "de sua peroração... Lit. de sua boca. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 93,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 94,
+    "parte": null,
+    "texto": "como ir... Isto é, apesar de que a estrada principal pode ser discernida por qualquer um. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 95,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 96,
+    "parte": null,
+    "texto": "banqueteiam... Lit. comem. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 97,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 98,
+    "parte": null,
+    "texto": "para embriagar-se... Lit. para forçae não para festim. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 99,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 100,
+    "parte": null,
+    "texto": "o dinheiro... Lit. a prata resolve tudo. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 101,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 102,
+    "parte": null,
+    "texto": "um ser alado... Lit. um dono de asas. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 103,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 104,
+    "parte": null,
+    "texto": "teu pão... Isto é, tua semente de trigo. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 105,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 106,
+    "parte": null,
+    "texto": "não sabes... →",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 107,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 108,
+    "parte": null,
+    "texto": "; §",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 109,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 109,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 110,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 111,
+    "parte": null,
+    "texto": "teus Criadores, Alef-Tav... Não há de entender-se et como partícula acusativa nem barah como singular majestático. Aqui (como em Gn",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 112,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 113,
+    "parte": null,
+    "texto": ") se explica a única essência e existência plural de Elohim  →§",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 114,
+    "parte": null,
+    "texto": "; §",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 115,
+    "parte": null,
+    "texto": "(No",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 116,
+    "parte": null,
+    "texto": "). ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 117,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 118,
+    "parte": null,
+    "texto": "escureçam... Isto é, o final da vida. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 119,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 120,
+    "parte": null,
+    "texto": "os guardiões... Isto é, o sistema ósseo; os homens fortes... Isto é, as pernas; as que moem... Isto é, os dentes; enturvem... Isto é, a opacidade do cristalino ou a ação das cataratas; pelas gelosias... Heb. aruboth = janelas pequenas. Isto é, as pálpebras. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 121,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 122,
+    "parte": null,
+    "texto": "as portas... Prov. os ouvidos ou as aberturas inferiores do corpo; fraco... moinho... Prov. dificuldade da digestão; se despertar... Prov. a fragilidade do sono; as filhas do canto... Prov. as cordas vocais. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 123,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 124,
+    "parte": null,
+    "texto": "se tema... terrores... Prov. referência à falta de confiança que a velhice acarreta; floresça a amendoeira... Prov. se refira às cãs; e se arraste... Isto Prov. o arrastar dos pés; alcaparra... Fruto para estimular a sexualidade; os que pranteiam... Profissionais do lamento fúnebre que perambulam pelas ruas aguardando que alguém morresse. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 125,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 126,
+    "parte": null,
+    "texto": "o cordão de prata... Prov. o fio da vida; a tigela de ouro... Prov. o crâneo; a roda... Prov. o corpo como um todo. A roda da vida (a energia vital) que cai no sepulcro. ►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 127,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 128,
+    "parte": null,
+    "texto": "o pó... Isto é, o homem →Gn",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 129,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 130,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 130,
+    "parte": null,
+    "texto": "►",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 131,
+    "parte": null,
+    "texto": ".",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
+  },
+  {
+    "capítulo": 12,
+    "versículo": 132,
+    "parte": null,
+    "texto": "livros... Lit. rolos.",
+    "livro": "ECLESIASTES",
+    "sigla": "ECL",
+    "anotações": []
   }
 ]
