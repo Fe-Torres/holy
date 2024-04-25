@@ -42,7 +42,6 @@ function formatAndMoveJsonFiles(sourceDir, destinationDir) {
                                     chapterNumber += 1
                                     verse = "auau"
                                 }
-
                                 //Lógica para o texto limpo
 
                                 bookArray.push({
